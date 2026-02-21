@@ -1,0 +1,4 @@
+C:\temp\ispp-43\LabWork6\LabWork6\obj\Debug\net9.0\LabWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp-43\LabWork6\LabWork6\obj\Debug\net9.0\LabWork6.AssemblyInfoInputs.cache
+C:\temp\ispp-43\LabWork6\LabWork6\obj\Debug\net9.0\LabWork6.AssemblyInfo.cs
+C:\temp\ispp-43\LabWork6\LabWork6\obj\Debug\net9.0\LabWork6.csproj.CoreCompileInputs.cache

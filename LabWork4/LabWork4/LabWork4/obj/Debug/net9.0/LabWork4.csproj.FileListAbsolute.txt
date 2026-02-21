@@ -1,0 +1,14 @@
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\bin\Debug\net9.0\LabWork4.exe
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\bin\Debug\net9.0\LabWork4.deps.json
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\bin\Debug\net9.0\LabWork4.runtimeconfig.json
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\bin\Debug\net9.0\LabWork4.dll
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\bin\Debug\net9.0\LabWork4.pdb
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\LabWork4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\LabWork4.AssemblyInfoInputs.cache
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\LabWork4.AssemblyInfo.cs
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\LabWork4.csproj.CoreCompileInputs.cache
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\LabWork4.dll
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\refint\LabWork4.dll
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\LabWork4.pdb
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\LabWork4.genruntimeconfig.cache
+C:\temp\ispp-43\LabWork4\LabWork4\LabWork4\obj\Debug\net9.0\ref\LabWork4.dll
