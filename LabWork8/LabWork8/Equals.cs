@@ -1,2 +1,2 @@
-﻿Equals(object? GPA)
-    Applicant applicant = GPA as Applicant;
+﻿Equals(object? averageGPA)
+    Applicant applicant = averageGPA as Applicant;

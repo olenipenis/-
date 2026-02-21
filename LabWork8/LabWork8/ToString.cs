@@ -1,5 +1,5 @@
 public override string ToString()
-	=> $"GPA: {GPA};\n SpecifiedGPA: {SpecifiedGPA};\n fullName: {fullName};\n schoolClass: {schoolClass};";
+	=> $"average GPA: {averageGPA};\n full name: {fullName};\n school class: {schoolClass};";
 
 Console.WriteLine(Applicant.ToString());
 
