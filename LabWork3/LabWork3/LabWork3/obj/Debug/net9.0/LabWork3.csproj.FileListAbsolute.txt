@@ -1,0 +1,14 @@
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\LabWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\LabWork3.AssemblyInfoInputs.cache
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\LabWork3.AssemblyInfo.cs
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\LabWork3.csproj.CoreCompileInputs.cache
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\bin\Debug\net9.0\LabWork3.exe
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\bin\Debug\net9.0\LabWork3.deps.json
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\bin\Debug\net9.0\LabWork3.runtimeconfig.json
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\bin\Debug\net9.0\LabWork3.dll
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\bin\Debug\net9.0\LabWork3.pdb
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\LabWork3.dll
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\refint\LabWork3.dll
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\LabWork3.pdb
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\LabWork3.genruntimeconfig.cache
+C:\temp\ispp-43\LabWork3\LabWork3\LabWork3\obj\Debug\net9.0\ref\LabWork3.dll
