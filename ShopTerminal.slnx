@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ShopTerminal.Api/ShopTerminal.Api.csproj" />
+  <Project Path="ShopTerminal.Client/ShopTerminal.Client.csproj" />
+  <Project Path="ShopTerminal.Data/ShopTerminal.Data.csproj" />
+</Solution>

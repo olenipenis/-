@@ -1,0 +1,14 @@
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\bin\Debug\net10.0\ShopTerminal.Data.deps.json
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\bin\Debug\net10.0\ShopTerminal.Data.runtimeconfig.json
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\bin\Debug\net10.0\ShopTerminal.Data.dll
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\bin\Debug\net10.0\ShopTerminal.Data.pdb
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ShopTerminal.Data.csproj.AssemblyReference.cache
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ShopTerminal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ShopTerminal.Data.AssemblyInfoInputs.cache
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ShopTerminal.Data.AssemblyInfo.cs
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ShopTerminal.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ShopTerminal.Data.dll
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\refint\ShopTerminal.Data.dll
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ShopTerminal.Data.pdb
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ShopTerminal.Data.genruntimeconfig.cache
+C:\Users\Rita\source\repos\ShopTerminal\ShopTerminal.Data\obj\Debug\net10.0\ref\ShopTerminal.Data.dll
