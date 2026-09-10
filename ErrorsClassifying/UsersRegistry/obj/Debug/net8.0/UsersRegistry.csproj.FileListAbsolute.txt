@@ -1,0 +1,15 @@
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\UsersRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\UsersRegistry.AssemblyInfoInputs.cache
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\UsersRegistry.AssemblyInfo.cs
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\UsersRegistry.csproj.CoreCompileInputs.cache
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\UsersRegistry.sourcelink.json
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\bin\Debug\net8.0\UsersRegistry.exe
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\bin\Debug\net8.0\UsersRegistry.deps.json
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\bin\Debug\net8.0\UsersRegistry.runtimeconfig.json
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\bin\Debug\net8.0\UsersRegistry.dll
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\bin\Debug\net8.0\UsersRegistry.pdb
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\UsersRegistry.dll
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\refint\UsersRegistry.dll
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\UsersRegistry.pdb
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\UsersRegistry.genruntimeconfig.cache
+C:\Users\221\students\ispp55\ErrorsClassifying\UsersRegistry\obj\Debug\net8.0\ref\UsersRegistry.dll
