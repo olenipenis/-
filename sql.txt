@@ -1,0 +1,41 @@
+CREATE TABLE `deleted_category` (
+  `id` int unsigned NOT NULL,
+  `name` varchar(100) NOT NULL,
+  `parent_id` int unsigned DEFAULT NULL,
+  `deleted_at` datetime DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+INSERT INTO `ispp5515`.`deleted_category`
+	(`id`,
+	`name`,
+	`parent_id`,
+	`deleted_at`)
+VALUES
+	(old.id,
+	 old.name,
+	 old.parent_id,
+	 now());
+
+CREATE TABLE [dbo].[DeletedCategory](
+	[Id] [int] NOT NULL,
+	[Name] [nvarchar](100) NOT NULL,
+	[ParentId] [int] NULL,
+	[DeletedAt] [datetime2](7) NULL,
+ CONSTRAINT [PK_DeletedCategory] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[DeletedCategory] ADD  DEFAULT (getdate()) FOR [DeletedAt]
+
+	INSERT INTO [dbo].[DeletedCategory]
+           ([Id]
+           ,[Name]
+           ,[ParentId]
+           ,[DeletedAt])
+     select *, getdate()
+     from deleted
