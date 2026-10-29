@@ -1,0 +1,4 @@
+https://the-internet.herokuapp.com/
+https://www.selenium.dev/selenium/web/
+https://github.com/ReyRom-Edu/UiTestingExample
+dotnet tool install –g dotnet-stryker 
