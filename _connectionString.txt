@@ -1,0 +1,27 @@
+public class ContextClass : DbContext
+{
+    public DbSet<Cinema> Cinemas => Set<Cinema>();
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseSqlServer(
+            "server=mssql;database=ispp5502;User Id=ispp5502;Password=5502;TrustServerCertificate=True;"
+            );
+    }
+
+}
+
+[Table("Film")]
+public class Film
+{
+    [Key] 
+    public int Id { get; set; }
+    public string Name { get; set; } = null!;
+    public int Duration { get; set; }
+    public int ReleaseYear { get; set; }
+    public string? Description { get; set; }
+    public byte[]? Poster { get; set; }
+    public string? Rate { get; set; }
+    public DateTime? SessionStart { get; set; }
+    public DateTime? SessionEnd { get; set; }
+}
