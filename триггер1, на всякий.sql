@@ -1,0 +1,3 @@
+CREATE DEFINER = CURRENT_USER TRIGGER `ispp5502`.`product_BEFORE_INSERT` BEFORE INSERT ON `product` FOR EACH ROW
+set new.Name=trim(new.Name);
+END

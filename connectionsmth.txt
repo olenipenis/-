@@ -1,0 +1,31 @@
+Scaffold-DbContext "Data Source=mssql; Initial Catalog=ispp5502; Persist Security Info=True;User ID=ispp5502; Password=5502; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -Context DbContextContext -ContextDir Contexts -OutputDir Models -Force
+
+Средства - командная строка - Консоль диспетчера пакетов
+
+Скачать mefcore.Tools и mefcore.SqlServer, восьмые версии(а то цмд ругается)
+
+Scaffold-DbContext "Data Source=mssql;Initial Catalog=ispp5502;Persist Security Info=True;User ID=ispp5502;Password=5502;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer
+
+файл проекта - открыть в проводнике - открыть cmd в папке - 
+dotnet ef --version    - проверка, работает ли ефка
+dotnet tool --global dotnet-ef   - установка инструмента глобально(если не глобально - убери global)
+версия редактируется на уровне решения(смотришь, куда скачался dotnet tool, находишь там указанный в командной строке файл, открываешь его через блокнот и прямо так меняешь версию на нужную)
+
+dotnet tool restore - я хз чё tbh
+dotnet new tool-manifest   - тоже хз
+dotnet tool run   - пишется, если установлен не глобально
+dotnet ef dbcontext scaffold (строка подключения)   - обязательная часть
+
+dotnet ef migration add   - создание миграции
+
+FK
+1:1
+public virtual ИмяРодителя ИмяСвойства {get; set;} = null!
+public virtual ИмяДочернегоКласса ИмяСвойства {get; set;}
+
+1:М
+public virtual ИмяРодителя ИмяСвойства {get; set;} = null!
+public virtual ICollection<ИмяДочернегоКласса> ИмяСвойтсва {get; set;} = new List<ИмяДочернегоКласса>();
+
+М:М
+ public virtual ICollection<ИмяДочернегоКласса> ИмяСвойтсва {get; set;} = new List<ИмяДочернегоКласса>();
